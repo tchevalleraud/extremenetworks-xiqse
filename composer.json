@@ -1,0 +1,23 @@
+{
+  "name": "tchevalleraud/extremenetworks-xiqse",
+  "type": "library",
+  "description": "",
+  "keywords": ["extreme networks", "xiq", "xiq-se"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "CHEVALLERAUD Thibault",
+      "email": "tchevalleraud@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.2"
+  },
+  "require-dev": {
+    "psr/cache": "^1.0|^2.0|^3.0"
+  },
+  "autoload": {
+    "psr-4": { "Tchevalleraud\\ExtremeNetworks\\XIQSE\\":  "" }
+  },
+  "minimum-stability": "dev"
+}
