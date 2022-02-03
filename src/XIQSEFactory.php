@@ -1,7 +1,7 @@
 <?php
 namespace Tchevalleraud\ExtremeNetworks\XIQSE;
 
-final class XIQSEFactory {
+class XIQSEFactory {
 
     public function __construct(){
 
